@@ -1,6 +1,6 @@
 print("Hello Localization")
 
 
-print("Hello Acquisition")
+print("Hello and Acquisition")
 
 print("Hello scanner service")
